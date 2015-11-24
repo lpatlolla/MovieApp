@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  actorCme: MyString
+  country: MyString
+
+two:
+  actorCme: MyString
+  country: MyString
